@@ -46,7 +46,7 @@ button:hover{
     color: #dc3545;
 }
 .main{
-   background: url(/html/download.jpg)no-repeat;
+   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDKnKuNKQ9qiKmsc7xPq5c51hBLILMT9kYGg&s)no-repeat;
    background-size: cover;
    height: 100vh;
    background-position: 50% 50%;
@@ -94,7 +94,7 @@ h2{
     border: #198754;
 }
 .now{
-    background-image: url(/html/images.jpg);
+    background-image: url(https://blog-cdn.el.olx.com.pk/wp-content/uploads/2024/11/25153657/Evee-S1.webp);
     background-size: cover;
    height: 100vh;
    background-position: 50% 50%;
